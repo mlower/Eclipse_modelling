@@ -1,2 +1,2 @@
 # Eclipse_modelling
-Modelling the magnetospheric eclipses of the Double Pulsar
+Trying to model the radio light curve of PSR J0737-3039A when it is eclipsed by the magnetosphere of PSR J0737-3039B.
